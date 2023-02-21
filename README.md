@@ -1,6 +1,7 @@
 # Lane-Line-Detection
-Simple program that detects lane lines in images/videos from the POV of a vehicle
+Detects lane lines in images/videos from the POV of a vehicle.
+
+Written in Python and openCV.
 
 # Example
-https://user-images.githubusercontent.com/36579394/220343841-b67fba52-9cf2-4939-8ce4-7ceb74d61030.mp4
-
+![lane detection - Imgur](https://user-images.githubusercontent.com/36579394/220355585-783b0af2-a2eb-4a4e-abd7-bc0e58942f9a.gif)
