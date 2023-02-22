@@ -1,5 +1,5 @@
 # Lane-Line-Detection
-Use computer vision to detects lane lines on the road from images/videos using the POV of a driving vehicle.
+Uses computer vision to detects lane lines on the road from images/videos using the POV of a driving vehicle.
 
 Written in Python and openCV.
 
